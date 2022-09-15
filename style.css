@@ -1,6 +1,7 @@
-body {background-color: red;
+body {background-color: rgb(255, 255, 255);
 color: blue;
 font-size: 25px;
+font-family: 'Playfair Display', serif;
 }
 h1 {color: green;}
 .main-header {color:white }
@@ -12,3 +13,15 @@ h5 {}
 h6 {}
 /* parent-child-class-id */
 .main-header1{}
+
+.background {background-color: red;
+padding: 5px 5px; 
+color: white;
+height: 50vh;
+}
+span.monkey {color: black;}
+
+background-position: center; 
+background-image: url(folder/img)
+background-repeat: no 
+background-size:cover 
