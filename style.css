@@ -6,7 +6,7 @@ padding: 50px 50px;
 background-color: aqua;}
 .body {color: beige;}
 .background {}
-#id {margin: 10px 50px 20px 0;
+#id {margin: 0 auto;
     border: 5px solid white;
     background-color: #ff9500; 
 width: 100px;
@@ -18,7 +18,7 @@ padding: 1em;}
 width: 100px;
 padding: 1em;}
 
-#lol {margin: 10px 50px 20px 0;
+#lol {margin: 0 auto;
     border: 5px solid white;
     background-color: #ff9500; 
 width: 100px;
